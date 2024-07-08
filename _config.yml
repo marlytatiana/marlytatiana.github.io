@@ -101,7 +101,7 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: # your X handle
+x_username: marly_tati # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
@@ -131,7 +131,7 @@ permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: false # true original value
+  enabled: true # true original value
 
 related_blog_posts:
   enabled: true
@@ -288,7 +288,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Celis-Galvez]
+  last_name: [Celis Galvez]
   first_name: [Marly, M.T.]
 
   style: apa
