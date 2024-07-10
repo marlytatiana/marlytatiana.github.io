@@ -1,12 +1,14 @@
 ---
 layout: post
-title: A Two-Year Journey in Econometric Reading and Discussion
+title: Three Insights from Our Econometrics Reading Group
 date: 2024-07-08 20:37
-description: A way to improve quality of the 20% we spend thinking about econometrics
+description: A Two-Year Journey in Econometric Reading and Discussion
 tags: reading
 categories: sample-posts
 featured: true
 ---
+
+*A Two-Year Journey in Econometric Reading and Discussion*
 
 According to the experts: “*applied researchers spend 20% of their time thinking about econometrics*” (Millimet, 2024)[^1] . To the right tail of this expected value are highly motivated staff in economics departments and econ graduate students. Individuals who keep up to date with the latest econometrics papers, working papers, blog posts, and substack posts. When you grab lunch frequently with econometric enthusiasts it’s just a matter of time before you end up organizing an econometrics reading group. It's been almost two years since at Utrecht University School of Economics, such a reading group emerged from a chat during lunch. It seems about time to share some thoughts and reflections on the main takeaways from this experience, and hand over the baton on to the new generation of enthusiasts.
 
@@ -22,7 +24,7 @@ Given that I described the group as enthusiasts, it is fair to say that had the 
 
 There is a gap between theoretical and applied econometrics and the widening gap is homogenizing applied econometricians' toolkit (Millimet, 2024; Millimet, 2024). Unless we want applied econometricians to specialize in difference-in-differences and theoretical econometricians to get more abstract, finding ways to close the gap is a pertinent activity to pursue.  The reading group has built bridges between theoretical and applied econometric papers, at least from the perspective of an econometrics methods consumer. Reading the application of an econometric method can feel like something is missing. Econometric enthusiasts want to know what is behind the black box of a *didregress* implementation. However, reading theoretical econometrics can be daunting. Since the *First Lesson on Econometrics* (Siefgfried, 1970), I knew that reading econometrics papers is all about a 1+1=2 strongly supported by assumptions, definitions and proofs. The reading group allowed me to verbalize those mathematical expressions and walk through equations and Greek letters along with smart colleagues. These collaborative discussions helped us approach the gap between theoretical and applied econometrics papers without experiencing a free fall in between.
 
-### Conclusion 
+### Takeaways
 
 After two years of regularly reading with motivated applied econometricians, we got a broader perspective on the advances in econometric methods. My three takeaways are: First, econometrics is fascinating because methods are field agnostic, and the reading group has created a space to know papers outside of our narrow fields. Second, reading econometrics papers with peers has likely improved the quality of time spent thinking about econometrics. Third, the econometrics group has bridged the gap between the abstraction of theoretical econometrics and the implementation of applied econometrics. Challenges and room for improvement wait ahead for the econometrics reading group; I’m confident we have handed the baton off in a better place than we got it.
 
