@@ -3,9 +3,10 @@ version: "3"
 services:
   jekyll:
     image: amirpourmand/al-folio:latest
-    build: .
+    # build: .
     ports:
       - 8080:8080
       - 35729:35729
     volumes:
       - .:/srv/jekyll
+      - ./bin/entry_point.sh:/tmp/entry_point.sh
