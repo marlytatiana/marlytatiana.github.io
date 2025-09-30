@@ -17,12 +17,13 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I'm Marly Tatiana Celis Gálvez, originally from Colombia and a PhD candidate at Utrecht University School of Economics in The Netherlands.
- My research has a microeconomic approach as I'm interested in studying the market and regulatory incentives that shape public officers' behaviour and the behaviour of the suppliers of the procurement market.
+I'm Marly Tatiana Celis Gálvez, PhD candidate at Utrecht University School of Economics, The Netherlands. My disseration focuses on public procurement markets, with intersections in public economics, competition, and industrial organization.
 
-I'm a member of the Utrecht University Centre for Public Procurement [UUcePP](https://www.uu.nl/en/background/interview-marly-tatiana-celis-galvez).
+I have experience in the Colombian public sector, where I worked at the Ministry of Planning in Colombia - Monitoring and Evaluation of Public Policies Division. I coordinated the implementation of evidence-based tools such as the Evidence Gap Maps. These are a visual tool that gathers impact evaluation results from the literature and are meant to inform where a specific policy lacks evidence. Furthermore, I along with a talented research team, I evaluated the impact of a conditional cash transfer program Más Familias en Acción on the civic participation of the beneficiaries. Prior to working in the Colombian public sector, I worked as a researcher, primarily conducting data management and statistical analysis. I gained solid research and analytic skills while preparing tables to create a south-american input-output matrix for the study [Global Value Chains and Productive Complementary in South America][https://www.cepal.org/sites/default/files/events/files/eclac_saio_key_asummptions_and_methological_considerations.pdf], and preparing dashboards with indicators from Colombian coffee producers. Moreover, my background in economics and my interest in research have motivated me to conduct high quality research. I coauthored a chapter book about [Education quality in Colombia][https://www.icfes.gov.co/documents/20143/233733/Cual+es+la+brecha+de+calidad+educativa+en+colombia+en+educacion+media+y+superior.pdf] and I wrote my first publication about spatial segregation of urban poverty, which studies the case of a Colombian city and discusses the role of education in urban mobility.
 
-Before coming to Utrecht, I worked at Colombia’s National Planning Department, Regional Research Center CRECE, and worked as a consultant/researcher. I hold an M.A. in Economics from Manizales University (Colombia). My previous work can be checked [here (Google)](https://sites.google.com/view/marly-tatiana-celis-galvez/home)
+
+
+<!-- Before coming to Utrecht, I worked at Colombia’s National Planning Department, Regional Research Center CRECE, and worked as a consultant/researcher. I hold an M.A. in Economics from Manizales University (Colombia). My previous work can be checked [here (Google)](https://sites.google.com/view/marly-tatiana-celis-galvez/home)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
