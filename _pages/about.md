@@ -17,16 +17,11 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I'm Marly Tatiana Celis Gálvez, PhD candidate at Utrecht University School of Economics, The Netherlands. My research interest are public economics and applied industrial organization. 
+I'm Marly Tatiana Celis Gálvez, PhD candidate at Utrecht University School of Economics. My research interest are public economics and applied industrial organization. 
 
-My doctoral disseration focuses on public procurement markets, from competition and industrial organization perspective. 
+My doctoral disseration **Essays on Empirical Economics of Public Procurement: Drivers of Efficiency and Effectiveness** focuses on public procurement markets.
 
-Other areas of interest, not active at moment, include development economics, education and labor economics.
-
-I have experience in the Colombian public sector, where I worked at the Ministry of Planning in Colombia - Monitoring and Evaluation of Public Policies Division. I coordinated the implementation of evidence-based tools such as the Evidence Gap Maps. These are a visual tool that gathers impact evaluation results from the literature and are meant to inform where a specific policy lacks evidence. This work led to the publication of a methodology guide for Colombia. Furthermore, I along with a talented research team, I evaluated the impact of a conditional cash transfer program Más Familias en Acción on the civic participation of the beneficiaries. This work led to a policy report and a working paper.
-
-Prior to my experience in the public sector, I worked as a researcher in Manizales, Colombia. I worked for a regional think tank CRECE and Universidad de Manizales. During that time I developved a broad range of interests and capabilities in applied economics and development. I took part on field work conducting interviews and applying surveys to coffee farmers, students and households. I also had increadible opportunities to work on international projects such as building the south-american input-output matrix for the study Global Value Chains and Productive Complementary in South America, and preparing dashboards with indicators from Colombian coffee producers. Moreover, my background in economics and my interest in research have motivated me to conduct high quality research. I conducted collaborative and independent reserach leading to several publications and reports, coauthored a chapter book about Education quality in Colombia and I wrote my first publication about spatial segregation of urban poverty, which studies the case of a Colombian city and discusses the role of education in urban mobility.
-
+I am an applied economist with a background in econometric methods, program evaluation, and evidence-based policy design. I have experience in the Colombian public sector, where I worked at the National Planning Department Colombia, District Planning Secretariat of the City of Bogota, think tank CRECE, and Universidad de Manizales. 
 
 
 <!-- Before coming to Utrecht, I worked at Colombia’s National Planning Department, Regional Research Center CRECE, and worked as a consultant/researcher. I hold an M.A. in Economics from Manizales University (Colombia). My previous work can be checked [here (Google)](https://sites.google.com/view/marly-tatiana-celis-galvez/home)
