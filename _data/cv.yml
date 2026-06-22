@@ -22,10 +22,10 @@
     - title: M.Sc. B.Sc. Economics
       institution: Universidad de Manizales, Colombia
       year: 2013
-      
- - title: Experience
-   type: time_table
-   contents:
+
+- title: Experience
+  type: time_table
+  contents:
      - title: Lecturer
        institution: Utrecht University, Utrecht, The Netherlands
        year: 2026 - Present
@@ -33,16 +33,18 @@
          - Tutor Statistics
          - Tutor Econometrics Summer School.
          - Supervisor Bachelor Thesis.
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Visiting Professor
+
+     - title: Impact Evaluation Analyst
+       institution: National Planning Department, Bogota,Colombia
+       year: 2016 - 2019
+
+      - title: Advisor for the District Development Plan
+        institution: District Planning Secretariat of City of Bogotá, Colombia
+        year: 2015 - 2016
+#      description:
+#        - Description 1.
+#        - Description 2.
+
 #       institution: California Institute of Technology, Pasadena, California, US
 #       year: 1933
 #       description:
