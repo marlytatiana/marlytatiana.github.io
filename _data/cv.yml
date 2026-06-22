@@ -6,23 +6,33 @@
     - name: Date of Birth
       value: 19th December 1986
     - name: Languages
-      value: Spanish (Native), English, Dutch (Beginner) 
+      value: Spanish (Native), English (Fluent), Dutch (Beginner) 
 
 - title: Education
   type: time_table
   contents:
     - title: PhD Candidate
       institution: Utrecht University, Utrecht, The Netherlands
-      year: 2025 -Expected
+      year: 2026 -Expected
       
     - title: M.Res Multidisciplinary Economics
       institution: Utrecht University, Utrecht, The Netherlands
       year: 2021
+
+    - title: M.Sc. B.Sc. Economics
+      institution: Universidad de Manizales, Colombia
+      year: 2013
       
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Professor of Theoretical Physics
+ - title: Experience
+   type: time_table
+   contents:
+     - title: Lecturer
+       institution: Utrecht University, Utrecht, The Netherlands
+       year: 2026 - Present
+       description:
+         - Tutor Statistics
+         - Tutor Econometrics Summer School.
+         - Supervisor Bachelor Thesis.
 #       institution: Institute for Advanced Study, Princeton University
 #       year: 1933 - 1955
 #       description:
