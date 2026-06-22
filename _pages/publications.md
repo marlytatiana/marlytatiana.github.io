@@ -44,8 +44,3 @@ Los barrios de la zona urbana de Manizales presentan un patrón de segregación 
 with Carlos Ariel Garcia
 
 En este artículo exploramos relaciones y posibles efectos del suministro de la complementación nutricional recibida por niños escolares en condiciones de desnutrición, que son atendidos mediante un programa local orientado a mejorar su estado nutricional e incentivar la motivación por las actividades escolares. Empleando datos preliminares, obtenidos con la aplicación de una prueba piloto con niños beneficiarios, se estimó una función de producción de salud para verificar los determinantes con datos del programa, una función de determinantes de la motivación escolar y se ensayó con un diseño before-after para estimar impactos parciales de la intervención. Teniendo en cuenta que los datos provienen de una prueba piloto, los resultados tienen carácter preliminar. Sin embargo, confirman hallazgos de estudios previos que relacionan el estado nutricional con variables de la madre y del hogar, muestran una cierta asociación entre nutrición y motivación escolar y encuentran que los beneficiarios reciben en sus hogares una ingesta calórica inferior a sus requerimientos que, en consecuencia, atenuaría el efecto positivo de la complementación. Consideramos esto como evidencia parcial que los estudios definitivos confrontarán.
-
-<!-- _pages/publications.md -->
-<!-- <div class="publications"> -->
-<!-- {% _bibliography %} -->
-<!--  </div> -->
