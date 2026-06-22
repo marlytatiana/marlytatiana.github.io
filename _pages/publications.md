@@ -7,6 +7,21 @@ nav: true
 nav_order: 2
 ---
 
+
+## Competition, Entry, and Firm Dynamics in Public Procurement
+
+This paper studies how entry into public procurement markets affects firms' financial performance. Using administrative data on Dutch public procurement tenders combined with firm-level balance sheet information and an event-study design exploiting variation in entry timing, I find that entry is associated with improvements in capital growth. However, there is substantial heterogeneity based on the competitiveness of the tender at entry. Gains are not persistent for firms entering through competitive bidding procedures and are concentrated among firms that enter through less open procurement procedures. Short-term firms bid more aggressively often in contracts with limited bidder participation. These findings suggest that entry alone is insufficient for firms to benefit from public procurement. Instead, firm bidding capabilities appear important for translating public demand into firm growth.
+
+
+## Quality of Public Projects and Procurement Officers Value Added
+
+Public procurement tenders are governed by complex regulations, yet procurement officers retain substantial discretion. How they exercise this discretion can influence both procurement efficiency and the quality of delivered projects. Using the universe of public procurement tenders in the Czech Republic, we estimate procurement officers' value added to project quality, measured by the need for subsequent repair contracts. We find that moving from the 10th to the 90th percentile of the value-added distribution is associated with a 4.5\% reduction in expected repair costs. This corresponds to a reduction in 5-year expected repair costs of CZK 520,000 (EUR 21,000) for a median-size contract and CZK 2.1 million (EUR 86,000) for a mean-size contract. We further show that officers with legal education, and those who are more engaged with developments in public procurement legislation, tend to underperform, resulting in higher subsequent repair costs.
+
+## Discretion and Political Favoritism: Evidence from Two Reforms in Public Procurement
+The misuse of bureaucratic discretion in public procurement risks political favoritism and corruption. Discretionary thresholds regulate this, with lenient rules below and strict oversight above these thresholds. We examine the impact of changes in these thresholds in the Czech Republic in 2012 and 2016 on discretion misuse and market competition, using bunching estimators, regression discontinuity, and comprehensive data on construction contracts, political ties, and firm productivity. Our findings show a concentration of contracts just below thresholds, both pre and post-reforms. Reforms reallocating contract values to new thresholds reveal that limiting discretion lowers final contract prices, indicating increased efficiency. However, when discretion increases, final prices are unaffected. Efficiency gains are not seen in contracts awarded to politically connected firms, suggesting that political favoritism hinders market outcome improvements from stricter regulations.
+
+#### References
+
 <!-- _pages/publications.md -->
 <div class="publications">
 
