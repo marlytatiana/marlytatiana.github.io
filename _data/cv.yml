@@ -1,13 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Marly Tatiana Celis Galvez
-    - name: Date of Birth
-      value: 19th December 1986
-    - name: Languages
-      value: Spanish (Native), English (Fluent), Dutch (Beginner) 
-
 - title: Education
   type: time_table
   contents:
@@ -44,6 +34,23 @@
 #      description:
 #        - Description 1.
 #        - Description 2.
+     - title: Research Assistant
+       institution: The Institute for Applied Economic Research - IPEA Brazil
+       year: 2014
+
+     - title: Research Assistant
+       institution: Center for Regional, Coffee, and Business Studies - CRECE, Colombia
+       year: 2008 - 2015
+
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Marly Tatiana Celis Galvez
+    - name: Date of Birth
+      value: 19th December 1986
+    - name: Languages
+      value: Spanish (Native), English (Fluent), Dutch (Beginner) 
 
 #       institution: California Institute of Technology, Pasadena, California, US
 #       year: 1933
