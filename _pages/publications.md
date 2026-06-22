@@ -47,5 +47,5 @@ En este artículo exploramos relaciones y posibles efectos del suministro de la 
 
 <!-- _pages/publications.md -->
 <!-- <div class="publications"> -->
-<!--{% bibliography %} -->
+<!-- {% bibliography %} -->
 <!--  </div> -->
