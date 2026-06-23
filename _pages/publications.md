@@ -22,7 +22,7 @@ with Vitezslav Titl and Fredo Schotanus.
 [Published in Southern Economic Journal. 2024](https://onlinelibrary.wiley.com/doi/full/10.1002/soej.12709)
 
 The misuse of bureaucratic discretion in public procurement risks political favoritism and corruption. Discretionary thresholds regulate this, with lenient rules below and strict oversight above these thresholds. We examine the impact of changes in these thresholds in the Czech Republic in 2012 and 2016 on discretion misuse and market competition, using bunching estimators, regression discontinuity, and comprehensive data on construction contracts, political ties, and firm productivity. Our findings show a concentration of contracts just below thresholds, both pre and post-reforms. Reforms reallocating contract values to new thresholds reveal that limiting discretion lowers final contract prices, indicating increased efficiency. However, when discretion increases, final prices are unaffected. Efficiency gains are not seen in contracts awarded to politically connected firms, suggesting that political favoritism hinders market outcome improvements from stricter regulations.
-[Slides (RES 2024)]({{ '/assets/pdf/Slides_Discretion_RES2024.pdf' | relative_url }})
+<!--[Slides (RES 2024)]({{ '/assets/pdf/Slides_Discretion_RES2024.pdf' | relative_url }}) -->
 
 
 **¿Cuál es la brecha de la calidad educativa en Colombia en la educación media y en la superior?**
