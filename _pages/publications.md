@@ -13,6 +13,7 @@ nav_order: 2
 
 This paper studies how entry into public procurement markets affects firms' financial performance. Using administrative data on Dutch public procurement tenders combined with firm-level balance sheet information and an event-study design exploiting variation in entry timing, I find that entry is associated with improvements in capital growth. However, there is substantial heterogeneity based on the competitiveness of the tender at entry. Gains are not persistent for firms entering through competitive bidding procedures and are concentrated among firms that enter through less open procurement procedures. Short-term firms bid more aggressively often in contracts with limited bidder participation. These findings suggest that entry alone is insufficient for firms to benefit from public procurement. Instead, firm bidding capabilities appear important for translating public demand into firm growth.
 
+<br>
 
 ## Publications
 
@@ -22,7 +23,13 @@ with Vitezslav Titl and Fredo Schotanus.
 [Published in Southern Economic Journal. 2024](https://onlinelibrary.wiley.com/doi/full/10.1002/soej.12709)
 
 The misuse of bureaucratic discretion in public procurement risks political favoritism and corruption. Discretionary thresholds regulate this, with lenient rules below and strict oversight above these thresholds. We examine the impact of changes in these thresholds in the Czech Republic in 2012 and 2016 on discretion misuse and market competition, using bunching estimators, regression discontinuity, and comprehensive data on construction contracts, political ties, and firm productivity. Our findings show a concentration of contracts just below thresholds, both pre and post-reforms. Reforms reallocating contract values to new thresholds reveal that limiting discretion lowers final contract prices, indicating increased efficiency. However, when discretion increases, final prices are unaffected. Efficiency gains are not seen in contracts awarded to politically connected firms, suggesting that political favoritism hinders market outcome improvements from stricter regulations.
+
+<br>
+
 [Slides (RES 2024)]({{ '/assets/pdf/Slides_Discretion_RES2024.pdf' | relative_url }}) 
+
+<br><br>
+
 
 
 **¿Cuál es la brecha de la calidad educativa en Colombia en la educación media y en la superior?**
