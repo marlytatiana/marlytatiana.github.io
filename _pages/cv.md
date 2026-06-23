@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 5
 cv_pdf: CV_2026.pdf
-description: Download my full CV here 
+description: Download my full CV here
 toc:
   sidebar: left
 ---
