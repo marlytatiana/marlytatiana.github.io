@@ -15,3 +15,45 @@ This paper studies how entry into public procurement markets affects firms' fina
 
 
 ## Publications
+
+**Discretion and Political Favoritism: Evidence from Two Reforms in Public Procurement**
+
+with Vitezslav Titl and Fredo Schotanus.
+[Published in Southern Economic Journal. 2024](https://onlinelibrary.wiley.com/doi/full/10.1002/soej.12709)
+
+The misuse of bureaucratic discretion in public procurement risks political favoritism and corruption. Discretionary thresholds regulate this, with lenient rules below and strict oversight above these thresholds. We examine the impact of changes in these thresholds in the Czech Republic in 2012 and 2016 on discretion misuse and market competition, using bunching estimators, regression discontinuity, and comprehensive data on construction contracts, political ties, and firm productivity. Our findings show a concentration of contracts just below thresholds, both pre and post-reforms. Reforms reallocating contract values to new thresholds reveal that limiting discretion lowers final contract prices, indicating increased efficiency. However, when discretion increases, final prices are unaffected. Efficiency gains are not seen in contracts awarded to politically connected firms, suggesting that political favoritism hinders market outcome improvements from stricter regulations.
+<!--[Slides (RES 2024)]({{ '/assets/pdf/Slides_Discretion_RES2024.pdf' | relative_url }}) -->
+
+
+**¿Cuál es la brecha de la calidad educativa en Colombia en la educación media y en la superior?**
+with Óscar Andrés Jiménez y Juan Felipe Jaramillo
+<!--[Published Book Chapter in Estudios sobre calidad de la educación en Colombia, 67-98, 2012](https://www.researchgate.net/profile/Marly-Tatiana-Celis-Galvez/publication/324149872_Cual_es_la_brecha_de_la_calidad_educativa_en_Colombia_en_la_educacion_media_y_en_la_superior/links/5ac1518f45851584fa75a127/Cual-es-la-brecha-de-la-calidad-educativa-en-Colombia-en-la-educacion-media-y-en-la-superior.pdf)
+
+Con el objetivo de encontrar cuál es la brecha de la calidad de la educación colombiana en los niveles medio y superior, se examinaron los resultados de las pruebas SABER 11 y SABER PRO a través de modelos jerárquicos en los que se contrastaron factores individuales, familiares y del plantel asociados con el puntaje obtenido. Se hizo un análisis de brecha basado en la desigualdad entre planteles y otro basado en la eficacia escolar. Finalmente se compararon los hallazgos entre áreas del conocimiento, carreras profesionales y departamentos. Se encontró que el 11% de las variaciones del puntaje en la educación media y el 27,8% en la educación superior se explican por las diferencias entre planteles, y que la mayor parte de estas se debe a los factores individuales. Solo para un 13% del total de individuos analizados el plantel logró compensar sus condiciones iniciales que lo condujeron a obtener altos puntajes. Por el contrario al 13% de estudiantes el paso por el sistema educativo no les permitió alcanzar el nivel de logro esperado. -->
+
+**¿Está segregada la pobreza en Manizales?**
+<!--[Published in Regiones, 2010](https://www.researchgate.net/profile/Marly-Tatiana-Celis-Galvez/publication/324159622_Esta_segregada_la_pobreza_en_Manizales/links/5ac22b7c45851584fa765476/Esta-segregada-la-pobreza-en-Manizales.pdf)
+Los barrios de la zona urbana de Manizales presentan un patrón de segregación de la incidencia de pobreza, determinada por la presencia de tres aglomeraciones de barrios pobres con un alto grado de homogeneidad y aislados social y espacialmente. Este fenómeno está acompañado de la segmentación de otros indicadores sociales como la escolaridad, el acceso al mercado laboral y otros factores subjetivos como el hecho de considerarse pobre. En tal sentido, se realiza una descripción de la distribución espacial de dichos indicadores, se comprueba la existencia de segregación socio espacial en los barrios de Manizales a través de indicadores tradicionales de segregación y de los índices de correlación provenientes de la estadística espacial; finalmente se estima un modelo de segregación de la pobreza mediante el uso de técnicas de econometría espacial. -->
+
+**Efecto de la complementación nutricional en niños escolares en Manizales**
+with Carlos Ariel Garcia
+<!-- [Published in Regiones, 2009](https://www.researchgate.net/profile/Marly-Tatiana-Celis-Galvez/publication/324159622_Esta_segregada_la_pobreza_en_Manizales/links/5ac22b7c45851584fa765476/Esta-segregada-la-pobreza-en-Manizales.pdf)
+En este artículo exploramos relaciones y posibles efectos del suministro de la complementación nutricional recibida por niños escolares en condiciones de desnutrición, que son atendidos mediante un programa local orientado a mejorar su estado nutricional e incentivar la motivación por las actividades escolares. Empleando datos preliminares, obtenidos con la aplicación de una prueba piloto con niños beneficiarios, se estimó una función de producción de salud para verificar los determinantes con datos del programa, una función de determinantes de la motivación escolar y se ensayó con un diseño before-after para estimar impactos parciales de la intervención. Teniendo en cuenta que los datos provienen de una prueba piloto, los resultados tienen carácter preliminar. Sin embargo, confirman hallazgos de estudios previos que relacionan el estado nutricional con variables de la madre y del hogar, muestran una cierta asociación entre nutrición y motivación escolar y encuentran que los beneficiarios reciben en sus hogares una ingesta calórica inferior a sus requerimientos que, en consecuencia, atenuaría el efecto positivo de la complementación. Consideramos esto como evidencia parcial que los estudios definitivos confrontarán. -->
+
+
+## Work in Progress
+
+**Quality of Public Projects and Procurement Officers Value Added**
+with Michal Šoltés, Vitezslav Titl, and Fredo Schotanus. _Submitted_
+
+Public procurement tenders are governed by complex regulations, yet procurement officers retain substantial discretion. How they exercise this discretion can influence both procurement efficiency and the quality of delivered projects. Using the universe of public procurement tenders in the Czech Republic, we estimate procurement officers' value added to project quality, measured by the need for subsequent repair contracts. We find that moving from the 10th to the 90th percentile of the value-added distribution is associated with a 4.5\% reduction in expected repair costs. This corresponds to a reduction in 5-year expected repair costs of CZK 520,000 (EUR 21,000) for a median-size contract and CZK 2.1 million (EUR 86,000) for a mean-size contract. We further show that officers with legal education, and those who are more engaged with developments in public procurement legislation, tend to underperform, resulting in higher subsequent repair costs.
+
+
+
+## Other writing (Selected)
+
+**Sustainable innovation and the internal client**
+with Fredo Schotanus
+
+**Impactos de Familias en Acción sobre el capital social**
+with Carlos Alberto Castañeda; Darwin Fauricio Cortes; Felipe Castro Pachón
