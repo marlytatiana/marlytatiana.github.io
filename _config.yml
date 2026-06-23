@@ -6,7 +6,7 @@ title: Marly Tatiana Celis Gálvez # the website title (if blank, full name will
 first_name: Marly
 middle_name: Tatiana
 last_name: Celis Gálvez
-email: m.t.celisgalvez@uu.nl
+email: celismarlytatiana@gmail.com # m.t.celisgalvez@uu.nl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -68,12 +68,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 blogger_url: # your blogger URL
-bluesky_url: marlytati.bsky.social # your bluesky URL
+bluesky_url: # marlytati.bsky.social # your bluesky URL
 dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: marlytatiana # your GitHub user name
+github_username: # marlytatiana # your GitHub user name
 gitlab_username: # your GitLab user name
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
@@ -101,12 +101,12 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: marly_tati # your X handle
+x_username: # marly_tati # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Get in touch by sending an email :smile:.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
