@@ -13,27 +13,17 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 #### Utrecht University
 
-- **Summer School Econometrics**  
-	2025 & 2026
-- **Applied Economics Research Course - BSc. Thesis**  
-	2026
-- **BSc. Statistics**  
-	2026
-- **MSc. Economics of Regulation**  
-	2024
-- **BSc. Industrial Organization and Competition Policy**    
-	2022 & 2023
-- **BSc. Intermediate Microeconomics, Games and Behaviour**  
-	2021
-
+- 2025 & 2026 **Introduction to Econometrics Summer School**  
+- 2026 **Applied Economics Research Course - BSc. Thesis**  
+- 2026 **BSc. Statistics**  
+- 2024 **MSc. Economics of Regulation**  
+- 2022 & 2023 **BSc. Industrial Organization and Competition Policy**    
+- 2021  **BSc. Intermediate Microeconomics, Games and Behaviour**  
+	
 #### Universidad del Rosario, Bogota, Colombia
-
-- **Applied Econometrics**  
-	2018
-
+- 2018 **Applied Econometrics**  
+	
 #### Universidad de Manizales, Colombia
-
-- **BSc. & MSc.Microeconomics**  
-	2013
-- **BSc. Econometrics**  
-	2012
+- 2013 **BSc. & MSc.Microeconomics**  
+- 2012 **BSc. Econometrics**  
+	
