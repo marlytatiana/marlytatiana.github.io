@@ -7,7 +7,7 @@ subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: PicOfMe.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Adam Smith Hall room 2.07 </p>
     <p>Kriekenpitplein 21-22, 3584 EC</p>
@@ -17,12 +17,13 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I'm Marly Tatiana Celis Gálvez, PhD candidate at Utrecht University School of Economics. My research interest are public economics and applied industrial organization. 
+Welcome! 
+
+I am lecturer and PhD candidate at Utrecht University School of Economics. 
+
+I am an applied microeconomist with a background in program evaluation, and evidence-based policy design. My research interest are public economics and applied industrial organization. I have experience in the Colombian public sector, where I worked at the National Planning Department Colombia, District Planning Secretariat of the City of Bogota, think tank CRECE, and Universidad de Manizales. 
 
 My doctoral disseration **Essays on Empirical Economics of Public Procurement: Drivers of Efficiency and Effectiveness** focuses on public procurement markets.
-
-I am an applied economist with a background in econometric methods, program evaluation, and evidence-based policy design. I have experience in the Colombian public sector, where I worked at the National Planning Department Colombia, District Planning Secretariat of the City of Bogota, think tank CRECE, and Universidad de Manizales. 
-
 
 <!-- Before coming to Utrecht, I worked at Colombia’s National Planning Department, Regional Research Center CRECE, and worked as a consultant/researcher. I hold an M.A. in Economics from Manizales University (Colombia). My previous work can be checked [here (Google)](https://sites.google.com/view/marly-tatiana-celis-galvez/home)
 
