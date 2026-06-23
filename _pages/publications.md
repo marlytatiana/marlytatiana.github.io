@@ -24,11 +24,9 @@ with Vitezslav Titl and Fredo Schotanus.
 
 The misuse of bureaucratic discretion in public procurement risks political favoritism and corruption. Discretionary thresholds regulate this, with lenient rules below and strict oversight above these thresholds. We examine the impact of changes in these thresholds in the Czech Republic in 2012 and 2016 on discretion misuse and market competition, using bunching estimators, regression discontinuity, and comprehensive data on construction contracts, political ties, and firm productivity. Our findings show a concentration of contracts just below thresholds, both pre and post-reforms. Reforms reallocating contract values to new thresholds reveal that limiting discretion lowers final contract prices, indicating increased efficiency. However, when discretion increases, final prices are unaffected. Efficiency gains are not seen in contracts awarded to politically connected firms, suggesting that political favoritism hinders market outcome improvements from stricter regulations.
 
-<br>
-
 [Slides (RES 2024)]({{ '/assets/pdf/Slides_Discretion_RES2024.pdf' | relative_url }}) 
 
-<br><br>
+<br>
 
 
 
@@ -47,6 +45,7 @@ with Carlos Ariel Garcia
 [Published in Regiones, 2009](https://www.researchgate.net/profile/Marly-Tatiana-Celis-Galvez/publication/324159622_Esta_segregada_la_pobreza_en_Manizales/links/5ac22b7c45851584fa765476/Esta-segregada-la-pobreza-en-Manizales.pdf)
 <!-- En este artículo exploramos relaciones y posibles efectos del suministro de la complementación nutricional recibida por niños escolares en condiciones de desnutrición, que son atendidos mediante un programa local orientado a mejorar su estado nutricional e incentivar la motivación por las actividades escolares. Empleando datos preliminares, obtenidos con la aplicación de una prueba piloto con niños beneficiarios, se estimó una función de producción de salud para verificar los determinantes con datos del programa, una función de determinantes de la motivación escolar y se ensayó con un diseño before-after para estimar impactos parciales de la intervención. Teniendo en cuenta que los datos provienen de una prueba piloto, los resultados tienen carácter preliminar. Sin embargo, confirman hallazgos de estudios previos que relacionan el estado nutricional con variables de la madre y del hogar, muestran una cierta asociación entre nutrición y motivación escolar y encuentran que los beneficiarios reciben en sus hogares una ingesta calórica inferior a sus requerimientos que, en consecuencia, atenuaría el efecto positivo de la complementación. Consideramos esto como evidencia parcial que los estudios definitivos confrontarán. -->
 
+<br>
 
 ## Work in Progress
 
@@ -55,7 +54,7 @@ with Michal Šoltés, Vitezslav Titl, and Fredo Schotanus. _Submitted_
 
 Public procurement tenders are governed by complex regulations, yet procurement officers retain substantial discretion. How they exercise this discretion can influence both procurement efficiency and the quality of delivered projects. Using the universe of public procurement tenders in the Czech Republic, we estimate procurement officers' value added to project quality, measured by the need for subsequent repair contracts. We find that moving from the 10th to the 90th percentile of the value-added distribution is associated with a 4.5\% reduction in expected repair costs. This corresponds to a reduction in 5-year expected repair costs of CZK 520,000 (EUR 21,000) for a median-size contract and CZK 2.1 million (EUR 86,000) for a mean-size contract. We further show that officers with legal education, and those who are more engaged with developments in public procurement legislation, tend to underperform, resulting in higher subsequent repair costs.
 
-
+<br>
 
 ## Other Writing (Selected)
 
