@@ -8,13 +8,13 @@ nav_order: 2
 ---
 
 
-# Job Market Paper 
+## Job Market Paper 
 ### **Competition, Entry, and Firm Dynamics in Public Procurement**
 
 This paper studies how entry into public procurement markets affects firms' financial performance. Using administrative data on Dutch public procurement tenders combined with firm-level balance sheet information and an event-study design exploiting variation in entry timing, I find that entry is associated with improvements in capital growth. However, there is substantial heterogeneity based on the competitiveness of the tender at entry. Gains are not persistent for firms entering through competitive bidding procedures and are concentrated among firms that enter through less open procurement procedures. Short-term firms bid more aggressively often in contracts with limited bidder participation. These findings suggest that entry alone is insufficient for firms to benefit from public procurement. Instead, firm bidding capabilities appear important for translating public demand into firm growth.
 
 
-# Publications
+## Publications
 
 **Discretion and Political Favoritism: Evidence from Two Reforms in Public Procurement**
 
@@ -41,7 +41,7 @@ with Carlos Ariel Garcia
 <!-- En este artículo exploramos relaciones y posibles efectos del suministro de la complementación nutricional recibida por niños escolares en condiciones de desnutrición, que son atendidos mediante un programa local orientado a mejorar su estado nutricional e incentivar la motivación por las actividades escolares. Empleando datos preliminares, obtenidos con la aplicación de una prueba piloto con niños beneficiarios, se estimó una función de producción de salud para verificar los determinantes con datos del programa, una función de determinantes de la motivación escolar y se ensayó con un diseño before-after para estimar impactos parciales de la intervención. Teniendo en cuenta que los datos provienen de una prueba piloto, los resultados tienen carácter preliminar. Sin embargo, confirman hallazgos de estudios previos que relacionan el estado nutricional con variables de la madre y del hogar, muestran una cierta asociación entre nutrición y motivación escolar y encuentran que los beneficiarios reciben en sus hogares una ingesta calórica inferior a sus requerimientos que, en consecuencia, atenuaría el efecto positivo de la complementación. Consideramos esto como evidencia parcial que los estudios definitivos confrontarán. -->
 
 
-# Work in Progress
+## Work in Progress
 
 **Quality of Public Projects and Procurement Officers Value Added**
 with Michal Šoltés, Vitezslav Titl, and Fredo Schotanus. _Submitted_
@@ -50,7 +50,7 @@ Public procurement tenders are governed by complex regulations, yet procurement 
 
 
 
-# Other writing (Selected)
+## Other writing (Selected)
 
 **Sustainable innovation and the internal client**
 with Fredo Schotanus
