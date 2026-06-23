@@ -13,7 +13,6 @@ nav_order: 2
 
 This paper studies how entry into public procurement markets affects firms' financial performance. Using administrative data on Dutch public procurement tenders combined with firm-level balance sheet information and an event-study design exploiting variation in entry timing, I find that entry is associated with improvements in capital growth. However, there is substantial heterogeneity based on the competitiveness of the tender at entry. Gains are not persistent for firms entering through competitive bidding procedures and are concentrated among firms that enter through less open procurement procedures. Short-term firms bid more aggressively often in contracts with limited bidder participation. These findings suggest that entry alone is insufficient for firms to benefit from public procurement. Instead, firm bidding capabilities appear important for translating public demand into firm growth.
 
-<div style="height: 1rem;"></div>
 
 # Publications
 
@@ -41,7 +40,6 @@ with Carlos Ariel Garcia
 [Published in Regiones, 2009](https://www.researchgate.net/profile/Marly-Tatiana-Celis-Galvez/publication/324159622_Esta_segregada_la_pobreza_en_Manizales/links/5ac22b7c45851584fa765476/Esta-segregada-la-pobreza-en-Manizales.pdf)
 <!-- En este artículo exploramos relaciones y posibles efectos del suministro de la complementación nutricional recibida por niños escolares en condiciones de desnutrición, que son atendidos mediante un programa local orientado a mejorar su estado nutricional e incentivar la motivación por las actividades escolares. Empleando datos preliminares, obtenidos con la aplicación de una prueba piloto con niños beneficiarios, se estimó una función de producción de salud para verificar los determinantes con datos del programa, una función de determinantes de la motivación escolar y se ensayó con un diseño before-after para estimar impactos parciales de la intervención. Teniendo en cuenta que los datos provienen de una prueba piloto, los resultados tienen carácter preliminar. Sin embargo, confirman hallazgos de estudios previos que relacionan el estado nutricional con variables de la madre y del hogar, muestran una cierta asociación entre nutrición y motivación escolar y encuentran que los beneficiarios reciben en sus hogares una ingesta calórica inferior a sus requerimientos que, en consecuencia, atenuaría el efecto positivo de la complementación. Consideramos esto como evidencia parcial que los estudios definitivos confrontarán. -->
 
-<div style="height: 1rem;"></div>
 
 # Work in Progress
 
@@ -51,7 +49,6 @@ with Michal Šoltés, Vitezslav Titl, and Fredo Schotanus. _Submitted_
 Public procurement tenders are governed by complex regulations, yet procurement officers retain substantial discretion. How they exercise this discretion can influence both procurement efficiency and the quality of delivered projects. Using the universe of public procurement tenders in the Czech Republic, we estimate procurement officers' value added to project quality, measured by the need for subsequent repair contracts. We find that moving from the 10th to the 90th percentile of the value-added distribution is associated with a 4.5\% reduction in expected repair costs. This corresponds to a reduction in 5-year expected repair costs of CZK 520,000 (EUR 21,000) for a median-size contract and CZK 2.1 million (EUR 86,000) for a mean-size contract. We further show that officers with legal education, and those who are more engaged with developments in public procurement legislation, tend to underperform, resulting in higher subsequent repair costs.
 
 
-<div style="height: 1rem;"></div>
 
 # Other writing (Selected)
 
