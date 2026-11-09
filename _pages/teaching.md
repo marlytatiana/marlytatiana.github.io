@@ -11,6 +11,11 @@ nav_order: 6
 For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 -->
 
+#### Maastricht University - Department of Macro, International and Labour Economics (MILE)
+
+- 2026 **Governing the European Economy**
+- 2026 **Economics of Contemporary Latin America**
+
 #### Utrecht University School of Economics
 
 - 2025 & 2026 **Introduction to Econometrics Summer School**  

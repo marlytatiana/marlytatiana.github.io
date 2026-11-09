@@ -1,9 +1,9 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD Candidate
+    - title: PhD
       institution: Utrecht University, Utrecht, The Netherlands
-      year: 2026 -Expected
+      year: 2026 
       
     - title: M.Res Multidisciplinary Economics
       institution: Utrecht University, Utrecht, The Netherlands
@@ -17,8 +17,14 @@
   type: time_table
   contents:
      - title: Lecturer
-       institution: Utrecht University, Utrecht, The Netherlands
+       institution: Maastricht University, The Netherlands
        year: 2026 - Present
+       description:
+          - Lecturer in Economics.
+
+     - title: Lecturer
+       institution: Utrecht University, Utrecht, The Netherlands
+       year: 2026 
        description:
          - Tutor Statistics
          - Tutor Econometrics Summer School.
