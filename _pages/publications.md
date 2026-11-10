@@ -17,6 +17,11 @@ This paper studies how entry into public procurement markets affects firms' fina
 
 ## Publications
 
+**Essays on Empirical Economics of Public Procurement: Drivers of Efficiency and Effectiveness**
+[Dissertation Utrecht University. 2026](https://research-portal.uu.nl/en/publications/essays-on-empirical-economics-of-public-procurement-drivers-of-ef/)
+
+
+
 **Discretion and Political Favoritism: Evidence from Two Reforms in Public Procurement**
 
 with Vitezslav Titl and Fredo Schotanus.
