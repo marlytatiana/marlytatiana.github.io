@@ -21,6 +21,9 @@ Welcome!
 
 I’m a lecturer at Maastricht University and an applied microeconomist working in public economics and applied industrial organization. My research focuses on public procurement markets.
 
+[Job Market Paper (PDF)](/assets/pdf/job-market-paper.pdf)
+
+
 I earned my PhD from the Utrecht University School of Economics. My dissertation, Essays on Empirical Economics of Public Procurement: Drivers of Efficiency and Effectiveness, examines what makes public procurement more efficient and effective.
 
 My professional background is in program evaluation and evidence-based policy design. In Colombia, I worked at the National Planning Department, Bogotá’s District Planning Secretariat, the think tank CRECE, and the Universidad de Manizales.
