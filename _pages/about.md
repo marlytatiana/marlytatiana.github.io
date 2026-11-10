@@ -17,16 +17,17 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Welcome!
-
-I’m a lecturer at Maastricht University and an applied microeconomist working in public economics and applied industrial organization. My research focuses on public procurement markets.
-
-[Job Market Paper (PDF)](/assets/pdf/job-market-paper.pdf)
 
 
-I earned my PhD from the Utrecht University School of Economics. My dissertation, Essays on Empirical Economics of Public Procurement: Drivers of Efficiency and Effectiveness, examines what makes public procurement more efficient and effective.
+**Lecturer in Economics · Maastricht University**
 
-My professional background is in program evaluation and evidence-based policy design. In Colombia, I worked at the National Planning Department, Bogotá’s District Planning Secretariat, the think tank CRECE, and the Universidad de Manizales.
+I am an applied microeconomist working in public economics. I study how governments design and implement policies, with a focus on how public spending translates into outcomes. One strand of my research examines public procurement: how firms compete for government contracts and how procurement rules affect competition.
+
+[**Job Market Paper**](/assets/pdf/job-market-paper.pdf) · [CV](/cv/)
+
+I earned my PhD in Economics at Utrecht University. My dissertation examines what makes public procurement markets more efficient and effective. In my job market paper, I study how firm entry and market dynamics shape competition and procurement outcomes.
+
+Before my PhD, I worked on program evaluation and evidence-based policy design in Colombia, including at the National Planning Department, Bogotá’s District Planning Secretariat, CRECE, and the Universidad de Manizales. My work has covered education quality, poverty, and social programs, including contributing to evaluations of Familias en Acción.
 
 
 <!-- Before coming to Utrecht, I worked at Colombia’s National Planning Department, Regional Research Center CRECE, and worked as a consultant/researcher. I hold an M.A. in Economics from Manizales University (Colombia). My previous work can be checked [here (Google)](https://sites.google.com/view/marly-tatiana-celis-galvez/home)
