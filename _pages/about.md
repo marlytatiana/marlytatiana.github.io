@@ -18,16 +18,21 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+**Lecturer in Economics · Maastricht University**  
+[CV](/cv/)
 
-**Lecturer in Economics · Maastricht University**
+I am an applied microeconomist working in public economics. I'm interested in
+how governments design and implement policy, and how we can evaluate the effects
+of public spending.
 
-I am an applied microeconomist working in public economics. I study how governments design and implement policies, with a focus on how public spending translates into outcomes. One strand of my research examines public procurement: how firms compete for government contracts and how procurement rules affect competition.
+I earned my PhD in Economics at Utrecht University, where my dissertation focused
+on the efficiency and effectiveness of public procurement. My
+[**job market paper** (PDF)](/assets/pdf/job-market-paper.pdf) examines how firm entry and market dynamics shape competition for public contracts.
 
-[**Job Market Paper**](/assets/pdf/job-market-paper.pdf) · [CV](/cv/)
-
-I earned my PhD in Economics at Utrecht University. My dissertation examines what makes public procurement markets more efficient and effective. In my job market paper, I study how firm entry and market dynamics shape competition and procurement outcomes.
-
-Before my PhD, I worked on program evaluation and evidence-based policy design in Colombia, including at the National Planning Department, Bogotá’s District Planning Secretariat, CRECE, and the Universidad de Manizales. My work has covered education quality, poverty, and social programs, including contributing to evaluations of Familias en Acción.
+Before my PhD, I worked on program evaluation and evidence-based policy design
+in Colombia at the National Planning Department, Bogotá's District Planning
+Secretariat, CRECE, and the Universidad de Manizales. My work covered education
+quality, poverty, and social programs, including evaluations of Familias en Acción.
 
 
 <!-- Before coming to Utrecht, I worked at Colombia’s National Planning Department, Regional Research Center CRECE, and worked as a consultant/researcher. I hold an M.A. in Economics from Manizales University (Colombia). My previous work can be checked [here (Google)](https://sites.google.com/view/marly-tatiana-celis-galvez/home)
