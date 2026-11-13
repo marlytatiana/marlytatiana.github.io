@@ -18,21 +18,45 @@ This paper studies how entry into public procurement markets affects firms' fina
 ## Publications
 
 **Essays on Empirical Economics of Public Procurement: Drivers of Efficiency and Effectiveness**
+
 [Dissertation Utrecht University. 2026](https://research-portal.uu.nl/en/publications/essays-on-empirical-economics-of-public-procurement-drivers-of-ef/)
 
 
+<br>
 
 **Discretion and Political Favoritism: Evidence from Two Reforms in Public Procurement**
 
 with Vitezslav Titl and Fredo Schotanus.
 [Published in Southern Economic Journal. 2024](https://onlinelibrary.wiley.com/doi/full/10.1002/soej.12709)
+[Slides (RES 2024)]({{ '/assets/pdf/Slides_Discretion_RES2024.pdf' | relative_url }}) 
 
 The misuse of bureaucratic discretion in public procurement risks political favoritism and corruption. Discretionary thresholds regulate this, with lenient rules below and strict oversight above these thresholds. We examine the impact of changes in these thresholds in the Czech Republic in 2012 and 2016 on discretion misuse and market competition, using bunching estimators, regression discontinuity, and comprehensive data on construction contracts, political ties, and firm productivity. Our findings show a concentration of contracts just below thresholds, both pre and post-reforms. Reforms reallocating contract values to new thresholds reveal that limiting discretion lowers final contract prices, indicating increased efficiency. However, when discretion increases, final prices are unaffected. Efficiency gains are not seen in contracts awarded to politically connected firms, suggesting that political favoritism hinders market outcome improvements from stricter regulations.
 
-[Slides (RES 2024)]({{ '/assets/pdf/Slides_Discretion_RES2024.pdf' | relative_url }}) 
 
 <br>
 
+## Working papers 
+
+**Quality of Public Projects and Procurement Officers Value Added**
+with Michal Šoltés, Vitezslav Titl, and Fredo Schotanus. _R&R JLEO_
+
+Public procurement tenders are governed by complex regulations, yet procurement officers retain substantial discretion. How they exercise this discretion can influence both procurement efficiency and the quality of delivered projects. Using the universe of public procurement tenders in the Czech Republic, we estimate procurement officers' value added to project quality, measured by the need for subsequent repair contracts. We find that moving from the 10th to the 90th percentile of the value-added distribution is associated with a 4.5\% reduction in expected repair costs. This corresponds to a reduction in 5-year expected repair costs of CZK 520,000 (EUR 21,000) for a median-size contract and CZK 2.1 million (EUR 86,000) for a mean-size contract. We further show that officers with legal education, and those who are more engaged with developments in public procurement legislation, tend to underperform, resulting in higher subsequent repair costs.
+
+## Work in progress
+
+**Government spending and inflation expectations in Colombia**
+with Daniel Osorio-Barreto
+<br>
+
+## Publications in Spanish
+
+
+<br>
+
+
+**Impactos de Familias en Acción sobre el capital social**
+with Carlos Alberto Castañeda; Darwin Fauricio Cortes; Felipe Castro Pachón
+working paper series DSEPP - Departamento Nacional de Planeacion Bogota
 
 
 **¿Cuál es la brecha de la calidad educativa en Colombia en la educación media y en la superior?**
@@ -50,26 +74,11 @@ with Carlos Ariel Garcia
 [Published in Regiones, 2009](https://www.researchgate.net/profile/Marly-Tatiana-Celis-Galvez/publication/324159622_Esta_segregada_la_pobreza_en_Manizales/links/5ac22b7c45851584fa765476/Esta-segregada-la-pobreza-en-Manizales.pdf)
 <!-- En este artículo exploramos relaciones y posibles efectos del suministro de la complementación nutricional recibida por niños escolares en condiciones de desnutrición, que son atendidos mediante un programa local orientado a mejorar su estado nutricional e incentivar la motivación por las actividades escolares. Empleando datos preliminares, obtenidos con la aplicación de una prueba piloto con niños beneficiarios, se estimó una función de producción de salud para verificar los determinantes con datos del programa, una función de determinantes de la motivación escolar y se ensayó con un diseño before-after para estimar impactos parciales de la intervención. Teniendo en cuenta que los datos provienen de una prueba piloto, los resultados tienen carácter preliminar. Sin embargo, confirman hallazgos de estudios previos que relacionan el estado nutricional con variables de la madre y del hogar, muestran una cierta asociación entre nutrición y motivación escolar y encuentran que los beneficiarios reciben en sus hogares una ingesta calórica inferior a sus requerimientos que, en consecuencia, atenuaría el efecto positivo de la complementación. Consideramos esto como evidencia parcial que los estudios definitivos confrontarán. -->
 
-<br>
 
-## Work in Progress
-
-**Quality of Public Projects and Procurement Officers Value Added**
-with Michal Šoltés, Vitezslav Titl, and Fredo Schotanus. _R&R JLEO_
-
-Public procurement tenders are governed by complex regulations, yet procurement officers retain substantial discretion. How they exercise this discretion can influence both procurement efficiency and the quality of delivered projects. Using the universe of public procurement tenders in the Czech Republic, we estimate procurement officers' value added to project quality, measured by the need for subsequent repair contracts. We find that moving from the 10th to the 90th percentile of the value-added distribution is associated with a 4.5\% reduction in expected repair costs. This corresponds to a reduction in 5-year expected repair costs of CZK 520,000 (EUR 21,000) for a median-size contract and CZK 2.1 million (EUR 86,000) for a mean-size contract. We further show that officers with legal education, and those who are more engaged with developments in public procurement legislation, tend to underperform, resulting in higher subsequent repair costs.
-
-**Government spending and inflation expectations in Colombia**
-with Daniel Osorio-Barreto
-<br>
-
-## Other Writing (Selected)
+### Other Writing (Selected)
 
 **Dutch public procurement auctions: competing in price and quality**
 with  Jan Stivak, Vitezslav Titl, and Fredo Schotanus
 
 **Sustainable innovation and the internal client**
 with Fredo Schotanus
-
-**Impactos de Familias en Acción sobre el capital social**
-with Carlos Alberto Castañeda; Darwin Fauricio Cortes; Felipe Castro Pachón
