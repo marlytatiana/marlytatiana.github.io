@@ -21,7 +21,7 @@ This paper studies how entry into public procurement markets affects firms' fina
 
 **Essays on Empirical Economics of Public Procurement: Drivers of Efficiency and Effectiveness**
 
-[Dissertation Utrecht University. 2026](https://research-portal.uu.nl/en/publications/essays-on-empirical-economics-of-public-procurement-drivers-of-ef/)
+[PhD Dissertation Utrecht University. 2026](https://research-portal.uu.nl/en/publications/essays-on-empirical-economics-of-public-procurement-drivers-of-ef/)
 
 
 <br>
@@ -45,7 +45,7 @@ The misuse of bureaucratic discretion in public procurement risks political favo
 <br>
 
 **Quality of Public Projects and Procurement Officers Value Added**
-with Michal Šoltés, Vitezslav Titl, and Fredo Schotanus. _*R&R JLEO*_
+with Michal Šoltés, Vitezslav Titl, and Fredo Schotanus. _**R&R JLEO**_
 
 Public procurement tenders are governed by complex regulations, yet procurement officers retain substantial discretion. How they exercise this discretion can influence both procurement efficiency and the quality of delivered projects. Using the universe of public procurement tenders in the Czech Republic, we estimate procurement officers' value added to project quality, measured by the need for subsequent repair contracts. We find that moving from the 10th to the 90th percentile of the value-added distribution is associated with a 4.5\% reduction in expected repair costs. This corresponds to a reduction in 5-year expected repair costs of CZK 520,000 (EUR 21,000) for a median-size contract and CZK 2.1 million (EUR 86,000) for a mean-size contract. We further show that officers with legal education, and those who are more engaged with developments in public procurement legislation, tend to underperform, resulting in higher subsequent repair costs.
 
