@@ -23,6 +23,8 @@ This paper studies how entry into public procurement markets affects firms' fina
 
 [PhD Dissertation Utrecht University. 2026](https://research-portal.uu.nl/en/publications/essays-on-empirical-economics-of-public-procurement-drivers-of-ef/)
 
+[Watch my PhD defence layman’s talk on YouTube](https://youtu.be/oPi64huORSQ)
+
 
 <br>
 
