@@ -28,7 +28,8 @@ of public spending.
 I earned my PhD in Economics at Utrecht University, where my dissertation focused
 on the efficiency and effectiveness of public procurement. 
 
-My [**job market paper** (PDF)](/assets/pdf/job-market-paper.pdf) examines how firm entry and market dynamics shape competition for public contracts.
+I am on the 2026/27 economics job market. You can find my [**job market paper** (PDF)](/assets/pdf/job-market-paper.pdf) examines how firm entry and market dynamics shape competition for public contracts. You can read my [Research statement (PDF)]({{ '/assets/pdf/research_statement.pdf' | relative_url }})
+
 
 Before my PhD, I worked on program evaluation and evidence-based policy design
 in Colombia at the National Planning Department, Bogotá's District Planning
